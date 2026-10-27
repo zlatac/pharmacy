@@ -1,0 +1,568 @@
+{
+    "pc": {
+        "translation": "after meals",
+        "category": "VERB"
+    },
+    "pchs": {
+        "translation": "after meals and at bedtime",
+        "category": "VERB",
+        "similar": ["pc&hs"]
+    },
+    "au": {
+        "translation": "in each ear",
+        "category": "ROUTE"
+    },
+    "apl": {
+        "translation": "applicatorful",
+        "category": "FORM"
+    },
+    "ou": {
+        "translation": "in each eye",
+        "category": "ROUTE"
+    },
+    "app": {
+        "translation": "apply",
+        "category": "VERB"
+    },
+    "ien": {
+        "translation": "in each nostril",
+        "category": "ROUTE"
+    },
+    "ar": {
+        "translation": "arthritis",
+        "category": "DIAGNOSIS"
+    },
+    "al": {
+        "translation": "in the left ear",
+        "category": "ROUTE"
+    },
+    "ud": {
+        "translation": "as directed",
+        "category": "VERB"
+    },
+    "ad": {
+        "translation": "in the right ear",
+        "category": "ROUTE"
+    },
+    "hs": {
+        "translation": "at bedtime",
+        "category": "FREQUENCY"
+    },
+    "os": {
+        "translation": "in the left eye",
+        "category": "ROUTE"
+    },
+    "stat": {
+        "translation": "at once",
+        "category": "FREQUENCY"
+    },
+    "od": {
+        "translation": "in the right eye",
+        "category": "ROUTE"
+    },
+    "inf": {
+        "translation": "inflammation",
+        "category": "DIAGNOSIS"
+    },
+    "bp": {
+        "translation": "blood pressure",
+        "category": "DIAGNOSIS"
+    },
+    "inh": {
+        "translation": "inhale",
+        "category": "VERB"
+    },
+    "ac": {
+        "translation": "before meals",
+        "category": "FREQUENCY"
+    },
+    "achs": {
+        "translation": "before meals and at bedtime",
+        "category": "FREQUENCY",
+        "similar": ["ac&hs"]
+    },
+    "inj": {
+        "translation": "inject",
+        "category": "VERB",
+        "similar": ["ij"]
+    },
+    "bm": {
+        "translation": "bowel movement",
+        "category": "DIAGNOSIS"
+    },
+    "medap": {
+        "translation": "injection administered by pharmacist",
+        "category": "VERB"
+    },
+    "po": {
+        "translation": "by mouth",
+        "category": "ROUTE"
+    },
+    "ir": {
+        "translation": "insert",
+        "category": "VERB"
+    },
+    "ins": {
+        "translation": "instil",
+        "category": "VERB"
+    },
+    "r": {
+        "translation": "into the rectum",
+        "category": "ROUTE"
+    },
+    "cap": {
+        "translation": "capsule",
+        "category": "FORM",
+        "similar": ["caps"]
+    },
+    "pv": {
+        "translation": "into the vagina",
+        "category": "ROUTE"
+    },
+    "ci": {
+        "translation": "circulation",
+        "category": "DIAGNOSIS"
+    },
+    "ju": {
+        "translation": "juice",
+        "category": "FORM"
+    },
+    "con": {
+        "translation": "constipation",
+        "category": "DIAGNOSIS"
+    },
+    "medcp": {
+        "translation": "consultation provided by",
+        "category": "VERB"
+    },
+    "n": {
+        "translation": "night",
+        "category": "FREQUENCY"
+    },
+    "cr": {
+        "translation": "crush",
+        "category": "VERB"
+    },
+    "crm": {
+        "translation": "cream",
+        "category": "FORM"
+    },
+    "ss": {
+        "translation": "one half",
+        "category": "QUANTITY"
+    },
+    "dy": {
+        "translation": "daily",
+        "category": "FREQUENCY"
+    },
+    "qbid": {
+        "translation": "one or two times daily",
+        "category": "FREQUENCY"
+    },
+    "d": {
+        "translation": "day",
+        "category": "FREQUENCY"
+    },
+    "ds": {
+        "translation": "days",
+        "category": "FREQUENCY"
+    },
+    "pa": {
+        "translation": "pain",
+        "category": "DIAGNOSIS"
+    },
+    "di": {
+        "translation": "diarrhea",
+        "category": "DIAGNOSIS"
+    },
+    "pl": {
+        "translation": "place",
+        "category": "VERB"
+    },
+    "dr": {
+        "translation": "drink",
+        "category": "VERB"
+    },
+    "pf": {
+        "translation": "puffs",
+        "category": "VERB"
+    },
+    "gtt": {
+        "translation": "drop",
+        "category": "FORM"
+    },
+    "gtts": {
+        "translation": "drops",
+        "category": "FORM"
+    },
+    "ra": {
+        "translation": "rash",
+        "category": "DIAGNOSIS"
+    },
+    "medra": {
+        "translation": "refer to adaptation form",
+        "category": "VERB"
+    },
+    "qd": {
+        "translation": "each day",
+        "category": "FREQUENCY",
+        "similar": ["q1d"]
+    },
+    "medro": {
+        "translation": "refer to opinions form",
+        "category": "VERB"
+    },
+    "qpm": {
+        "translation": "each evening",
+        "category": "FREQUENCY"
+    },
+    "qam": {
+        "translation": "each morning",
+        "category": "FREQUENCY"
+    },
+    "sw": {
+        "translation": "shake well",
+        "category": "VERB"
+    },
+    "q": {
+        "translation": "every",
+        "category": "FREQUENCY"
+    },
+    "sb": {
+        "translation": "shortness of breath",
+        "category": "DIAGNOSIS"
+    },
+    "q1h": {
+        "translation": "every hour",
+        "category": "FREQUENCY",
+        "similar": ["q1"]
+    },
+    "sp": {
+        "translation": "sparingly",
+        "category": "VERB"
+    },
+    "q2d": {
+        "translation": "every second day",
+        "category": "FREQUENCY"
+    },
+    "supp": {
+        "translation": "suppository",
+        "category": "FORM"
+    },
+    "q2h": {
+        "translation": "every 2 hours",
+        "category": "FREQUENCY"
+    },
+    "q3h": {
+        "translation": "every 3 hours",
+        "category": "FREQUENCY"
+    },
+    "tbl": {
+        "translation": "tablespoon",
+        "category": "QUANTITY"
+    },
+    "q4h": {
+        "translation": "every 4 hours",
+        "category": "FREQUENCY"
+    },
+    "tbls": {
+        "translation": "tablespoonfuls",
+        "category": "QUANTITY"
+    },
+    "q6h": {
+        "translation": "every 6 hours",
+        "category": "FREQUENCY"
+    },
+    "tab": {
+        "translation": "tablet",
+        "category": "FORM"
+    },
+    "q8h": {
+        "translation": "every 8 hours",
+        "category": "FREQUENCY"
+    },
+    "tabs": {
+        "translation": "tablets",
+        "category": "FORM"
+    },
+    "q12h": {
+        "translation": "every 12 hours",
+        "category": "FREQUENCY"
+    },
+    "t": {
+        "translation": "take",
+        "category": "VERB"
+    },
+    "q2-3h": {
+        "translation": "every 2-3 hours",
+        "category": "FREQUENCY"
+    },
+    "tsp": {
+        "translation": "teaspoon",
+        "category": "QUANTITY"
+    },
+    "q2-4h": {
+        "translation": "every 2-4 hours",
+        "category": "FREQUENCY"
+    },
+    "tsps": {
+        "translation": "teaspoonfuls",
+        "category": "QUANTITY"
+    },
+    "q4-6h": {
+        "translation": "every 4-6 hours",
+        "category": "FREQUENCY"
+    },
+    "tqid": {
+        "translation": "three or four times daily",
+        "category": "FREQUENCY"
+    },
+    "tid": {
+        "translation": "three times daily",
+        "category": "FREQUENCY"
+    },
+    "fe": {
+        "translation": "fever",
+        "category": "DIAGNOSIS"
+    },
+    "btid": {
+        "translation": "two or three times daily",
+        "category": "FREQUENCY"
+    },
+    "fl": {
+        "translation": "fluids",
+        "category": "FORM",
+        "similar": ["fld"]
+    },
+    "admx": {
+        "translation": "to a maximum of",
+        "category": "QUANTITY"
+    },
+    "f": {
+        "translation": "for",
+        "category": "DIAGNOSIS"
+    },
+    "aa": {
+        "translation": "to affected area",
+        "category": "ROUTE",
+        "similar": ["aaa"]
+    },
+    "qid": {
+        "translation": "four times daily",
+        "category": "FREQUENCY"
+    },
+    "bid": {
+        "translation": "twice daily",
+        "category": "FREQUENCY"
+    },
+    "g": {
+        "translation": "give",
+        "category": "VERB"
+    },
+    "sl": {
+        "translation": "under the tongue",
+        "category": "ROUTE"
+    },
+    "uf": {
+        "translation": "until finished",
+        "category": "DURATION"
+    },
+    "hd": {
+        "translation": "headache",
+        "category": "DIAGNOSIS"
+    },
+    "aq": {
+        "translation": "water",
+        "category": "FORM"
+    },
+    "h": {
+        "translation": "hour",
+        "category": "FREQUENCY",
+        "similar": ["hr","hor"]
+    },
+    "prn": {
+        "translation": "as needed",
+        "category": "DURATION"
+    },
+    "hrs": {
+        "translation": "hours",
+        "category": "FREQUENCY"
+    },
+    "prnf": {
+        "translation": "when necessary for",
+        "category": "DURATION"
+    },
+    "c": {
+        "translation": "with",
+        "category": "VERB"
+    },
+    "cf": {
+        "translation": "with food",
+        "category": "VERB"
+    },
+    "cc": {
+        "translation": "with meals",
+        "category": "VERB"
+    },
+    "s": {
+        "translation": "without",
+        "category": "VERB"
+    },
+    "i-ii": {
+        "translation": "1 to 2",
+        "category": "QUANTITY"
+    },
+    "mcg": {
+        "translation": "Microgram",
+        "category": "QUANTITY",
+        "similar": ["μg"]
+    },
+    "mg": {
+        "translation": "Milligram",
+        "category": "QUANTITY"
+    },
+    "gm": {
+        "translation": "gram",
+        "category": "QUANTITY"
+    },
+    "kg": {
+        "translation": "Kilogram",
+        "category": "QUANTITY"
+    },
+    "ml": {
+        "translation": "Milliliter",
+        "category": "QUANTITY"
+    },
+    "l": {
+        "translation": "Liter",
+        "category": "QUANTITY"
+    },
+    "meq": {
+        "translation": "Milliequivalent",
+        "category": "QUANTITY"
+    },
+    "mm": {
+        "translation": "Millimoles",
+        "category": "QUANTITY"
+    },
+    "tbs": {
+        "translation": "Tablespoonful",
+        "category": "QUANTITY",
+        "similar": ["tble","tbsp"]
+    },
+    "oz": {
+        "translation": "Ounce",
+        "category": "QUANTITY",
+        "similar": ["℥"]
+    },
+    "floz": {
+        "translation": "Fluid Ounce",
+        "category": "QUANTITY"
+    },
+    "pt": {
+        "translation": "pint",
+        "category": "QUANTITY"
+    },
+    "qt": {
+        "translation": "Quart",
+        "category": "QUANTITY"
+    },
+    "gal": {
+        "translation": "Gallon",
+        "category": "QUANTITY"
+    },
+    "gr": {
+        "translation": "Grain",
+        "category": "QUANTITY"
+    },
+    "lb": {
+        "translation": "pound",
+        "category": "QUANTITY",
+        "similar": ["℔"]
+    },
+    "qs": {
+        "translation": "Quantity Sufficient (add enough to make)",
+        "category": "QUANTITY"
+    },
+    "qty": {
+        "translation": "quantity",
+        "category": "QUANTITY",
+        "similar": ["#"]
+    },
+    "u": {
+        "translation": "unit",
+        "category": "QUANTITY"
+    },
+    "qod": {
+        "translation": "Every Other Day",
+        "category": "FREQUENCY"
+    },
+    "qhs": {
+        "translation": "At Bedtime",
+        "category": "FREQUENCY"
+    },
+    "aft": {
+        "translation": "Afternoon",
+        "category": "FREQUENCY"
+    },
+    "am": {
+        "translation": "Morning",
+        "category": "FREQUENCY"
+    },
+    "pm": {
+        "translation": "Evening",
+        "category": "FREQUENCY",
+        "similar": ["noct"]
+    },
+    "atc": {
+        "translation": "Around The Clock",
+        "category": "FREQUENCY"
+    },
+    "min": {
+        "translation": "Minute",
+        "category": "FREQUENCY"
+    },
+    "dai": {
+        "translation": "Daily",
+        "category": "FREQUENCY"
+    },
+    "w": {
+        "translation": "Week",
+        "category": "FREQUENCY"
+    },
+    "wk": {
+        "translation": "Weekly",
+        "category": "FREQUENCY"
+    },
+    "sc": {
+        "translation": "Subcutaneously",
+        "category": "ROUTE",
+        "similar": ["sq","sub-q"]
+    },
+    "top": {
+        "translation": "Topically",
+        "category": "ROUTE",
+        "similar": ["toply"]
+    },
+    "id": {
+        "translation": "Intradermaly",
+        "category": "ROUTE"
+    },
+    "im": {
+        "translation": "Intramuscularly",
+        "category": "ROUTE"
+    },
+    "it": {
+        "translation": "Intrathecaly",
+        "category": "ROUTE"
+    },
+    "ivpb": {
+        "translation": "Intravenous Piggy Back",
+        "category": "ROUTE"
+    },
+    "pr": {
+        "translation": "rectally",
+        "category": "ROUTE"
+    }
+
+}
