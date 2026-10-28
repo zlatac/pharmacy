@@ -1,7 +1,7 @@
 import json
-
 from flask import Flask, request, make_response
 from translate_service import decipher_prescription as decipher, all_prescription_keys
+
 #
 app: str = Flask(__name__)
 

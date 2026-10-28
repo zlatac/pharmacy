@@ -1,6 +1,6 @@
 # Flask framework
 
-This project was made with python version 3.x
+This project was made with python version 3.12.3
 
 ## Install
 
